@@ -2,7 +2,7 @@ var assert = require('assert'),
     vows = require('vows'),
     chai = require('chai');
 nock = require('nock');
-var MailChimpAPI = require('../../index').v3('64bda67b66ee1063d697dd4a8bd1b06c-us12');
+var MailChimpAPI = require('../../index').v3('apiKey');
 var assert = chai.assert;
 var expect = chai.expect;
 chai.should();
