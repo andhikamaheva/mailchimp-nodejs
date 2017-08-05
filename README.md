@@ -2,9 +2,46 @@
 
 
 # Table of Contents
-* [License](#License)
 
+* [Installation](#installation)
+* [Quick Start](#quick_start)
+* [Usage](#usage)
+* [Use Cases](#use_cases)
+* [Announcements](#announcements)
+* [Roadmap](#roadmap)
+* [How to Contribute](#contribute)
+* [Troubleshooting](#troubleshooting)
+* [About](#about)
+* [License](#license)
 
+<a name="installation"></a>
+# Installation
+
+<a name="quick_start"></a>
+# Quick Start
+
+<a name="usage"></a>
+# Usage
+
+<a name="use_cases"></a>
+# Use Cases
+
+<a name="announcements"></a>
+# Announcements
+
+<a name="roadmap"></a>
+# Roadmap
+
+<a name="contribute"></a>
+# How to Contribute
+
+<a name="troubleshooting"></a>
+# Troubleshooting
+
+<a name="about"></a>
+# About
+
+<a name="license"></a>
 # License
 
 **MIT License**
