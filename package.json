@@ -1,11 +1,10 @@
 {
   "name": "mailchimp-nodejs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MailChimp NodeJS is unofficial NPM Package for MailChimp API",
   "main": "index.js",
   "scripts": {
     "test": "istanbul cover ./node_modules/mocha/bin/_mocha test/v3 --report lcovonly -- -R spec && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage"
-
   },
   "repository": {
     "type": "git",
@@ -27,6 +26,7 @@
   },
   "homepage": "https://github.com/andhikamaheva/mailchimp-nodejs#readme",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "fs": "0.0.1-security",
     "http": "0.0.0",
     "request": "^2.81.0"
