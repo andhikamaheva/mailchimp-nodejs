@@ -1,7 +1,8 @@
 # MailChimp NodeJS (Under Development)
 
-[![Linux Build][npm-image]][npm-url]
+
 [![NPM Version][npm-image]][npm-url]
+[![Linux Build][build-image]][build-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 [![Windows Build][appveyor-image]][appveyor-url]
 
