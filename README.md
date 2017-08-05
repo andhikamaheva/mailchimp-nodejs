@@ -1,6 +1,7 @@
 # MailChimp NodeJS (Under Development)
 [![Build Status](https://travis-ci.org/andhikamaheva/mailchimp-nodejs.svg?branch=master)](https://travis-ci.org/andhikamaheva/mailchimp-nodejs)
 [![npm version](https://badge.fury.io/js/mailchimp-nodejs.svg)](https://badge.fury.io/js/mailchimp-nodejs)
+
 MailChimp NodeJS is NodeJS Package allows you to quickly and easily use the MailChimp API v3 via Node.js.
 Please browse the rest of this README for further detail.
 
