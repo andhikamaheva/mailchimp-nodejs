@@ -1,0 +1,38 @@
+{
+  "name": "mailchimp-nodejs",
+  "version": "1.0.0",
+  "description": "MailChimp NodeJS is unofficial NPM Package for MailChimp API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andhikamaheva/mailchimp-nodejs.git"
+  },
+  "keywords": [
+    "mailchimp",
+    "mailchimp",
+    "nodejs",
+    "mailchimp",
+    "api",
+    "mailchimp",
+    "v3"
+  ],
+  "author": "Andhika Maheva Wicaksono <andhikamaheva@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andhikamaheva/mailchimp-nodejs/issues"
+  },
+  "homepage": "https://github.com/andhikamaheva/mailchimp-nodejs#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "nock": "^9.0.14",
+    "vows": "^0.8.1"
+  }
+}
