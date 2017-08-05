@@ -1,5 +1,5 @@
 # Mailchimp NodeJS
-
+[![npm version](https://badge.fury.io/js/mailchimp-nodejs.svg)](https://badge.fury.io/js/mailchimp-nodejs)
 
 # Table of Contents
 

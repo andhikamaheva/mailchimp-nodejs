@@ -1,6 +1,6 @@
 {
   "name": "mailchimp-nodejs",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "MailChimp NodeJS is unofficial NPM Package for MailChimp API",
   "main": "index.js",
   "scripts": {
