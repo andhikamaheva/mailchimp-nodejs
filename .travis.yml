@@ -6,4 +6,4 @@ node_js:
 before_install:
 - npm install
 script:
-env:
+- npm test
