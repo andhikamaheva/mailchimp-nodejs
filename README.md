@@ -5,6 +5,7 @@
 [![NPM Downloads][downloads-image]][downloads-url]
 [![Linux Build][build-image]][build-url]
 [![Windows Build][appveyor-image]][appveyor-url]
+[![Coverage Status][coveralls-image]][coveralls-url]
 
 
 
@@ -107,3 +108,5 @@ SOFTWARE.
 [downloads-url]: https://npmjs.org/package/express
 [appveyor-image]: https://img.shields.io/appveyor/ci/andhikamaheva/mailchimp-nodejs/master.svg?label=windows
 [appveyor-url]: https://ci.appveyor.com/project/andhikamaheva/mailchimp-nodejs
+[coveralls-image]: https://coveralls.io/repos/github/andhikamaheva/mailchimp-nodejs/badge.svg?branch=master
+[coveralls-url]: https://coveralls.io/github/andhikamaheva/mailchimp-nodejs?branch=master
