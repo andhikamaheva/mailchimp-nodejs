@@ -1,4 +1,5 @@
 # Mailchimp NodeJS
+[![Build Status](https://travis-ci.org/andhikamaheva/mailchimp-nodejs.svg?branch=master)](https://travis-ci.org/andhikamaheva/mailchimp-nodejs)
 [![npm version](https://badge.fury.io/js/mailchimp-nodejs.svg)](https://badge.fury.io/js/mailchimp-nodejs)
 
 # Table of Contents
