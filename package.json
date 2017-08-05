@@ -4,7 +4,8 @@
   "description": "MailChimp NodeJS is unofficial NPM Package for MailChimp API",
   "main": "index.js",
   "scripts": {
-    "test": "istanbul cover ./node_modules/mocha/bin/mocha test/v3"
+    "test": "istanbul cover ./node_modules/mocha/bin/_mocha test/v3 --report lcovonly -- -R spec && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage"
+
   },
   "repository": {
     "type": "git",
@@ -33,8 +34,10 @@
   "devDependencies": {
     "assert": "^1.4.1",
     "chai": "^4.1.1",
+    "coveralls": "^2.13.1",
     "istanbul": "^0.4.5",
     "mocha": "^3.5.0",
+    "mocha-lcov-reporter": "^1.3.0",
     "nock": "^9.0.14",
     "vows": "^0.8.1"
   }
