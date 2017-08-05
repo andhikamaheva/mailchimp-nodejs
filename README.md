@@ -5,8 +5,9 @@
 * [License](#License)
 
 
-#License
-MIT License
+# License
+
+**MIT License**
 
 Copyright (c) 2017 Andhika Maheva Wicaksono
 
