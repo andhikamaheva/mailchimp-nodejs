@@ -2,9 +2,18 @@
 
 
 # Table of Contents
-* [License](#License)
 
+* [Installation](#installation)
+* [Quick Start](#quick_start)
+* [Usage](#usage)
+* [Use Cases](#use_cases)
+* [Announcements](#announcements)
+* [Roadmap](#roadmap)
+* [How to Contribute](#contribute)
+* [Troubleshooting](#troubleshooting)
+* [About](#about)
 
+<a name="license"></a>
 # License
 
 **MIT License**
