@@ -1,6 +1,12 @@
 # MailChimp NodeJS (Under Development)
-[![Build Status](https://travis-ci.org/andhikamaheva/mailchimp-nodejs.svg?branch=master)](https://travis-ci.org/andhikamaheva/mailchimp-nodejs)
-[![npm version](https://badge.fury.io/js/mailchimp-nodejs.svg)](https://badge.fury.io/js/mailchimp-nodejs)
+
+[![Linux Build][npm-image]][npm-url]
+[![NPM Version][npm-image]][npm-url]
+[![NPM Downloads][downloads-image]][downloads-url]
+[![Windows Build][appveyor-image]][appveyor-url]
+
+
+
 
 MailChimp NodeJS is NodeJS Package allows you to quickly and easily use the MailChimp API v3 via Node.js.
 Please browse the rest of this README for further detail.
@@ -71,3 +77,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+[build-image]: https://travis-ci.org/andhikamaheva/mailchimp-nodejs.svg?branch=master
+[build-url]: https://travis-ci.org/andhikamaheva/mailchimp-nodejs
+[npm-image]: https://badge.fury.io/js/mailchimp-nodejs.svg
+[npm-url]: https://badge.fury.io/js/mailchimp-nodejs
+[downloads-image]: https://img.shields.io/npm/dm/mailchimp-nodejs.svg
+[downloads-url]: https://npmjs.org/package/express
+[appveyor-image]: https://img.shields.io/appveyor/ci/andhikamaheva/mailchimp-nodejs/master.svg?label=windows
+[appveyor-url]: https://ci.appveyor.com/project/andhikamaheva/mailchimp-nodejs
