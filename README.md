@@ -30,6 +30,26 @@ We appreciate your continued support, thank you!
 <a name="installation"></a>
 # Installation
 
+## Prerequisites
+- Node.js version 4, 6 or 7
+- The MailChimp service, ready to use (Verified account & has API Key)
+
+## Install Package
+
+The following recommended installation requires [npm](https://npmjs.org/). If you are unfamiliar with npm, see the [npm docs](https://npmjs.org/doc/). Npm comes installed with Node.js since node version 0.8.x therefore you likely already have it.
+
+```bash
+npm install --save mailchimp-nodejs
+```
+
+## Dependencies
+There are some dependencies support this package :
+
+### Main Dependencies
+
+### Development Dependencies
+
+
 <a name="quick_start"></a>
 # Quick Start
 
