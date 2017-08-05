@@ -100,12 +100,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[build-image]: https://img.shields.io/travis/expressjs/express/master.svg?label=linux
+[build-image]: https://img.shields.io/travis/andhikamaheva/mailchimp-nodejs/master.svg?label=linux
 [build-url]: https://travis-ci.org/andhikamaheva/mailchimp-nodejs
 [npm-image]: https://badge.fury.io/js/mailchimp-nodejs.svg
 [npm-url]: https://badge.fury.io/js/mailchimp-nodejs
 [downloads-image]: https://img.shields.io/npm/dm/mailchimp-nodejs.svg
-[downloads-url]: https://npmjs.org/package/express
+[downloads-url]: https://npmjs.org/package/mailchimp-nodejs
 [appveyor-image]: https://img.shields.io/appveyor/ci/andhikamaheva/mailchimp-nodejs/master.svg?label=windows
 [appveyor-url]: https://ci.appveyor.com/project/andhikamaheva/mailchimp-nodejs
 [coveralls-image]: https://coveralls.io/repos/github/andhikamaheva/mailchimp-nodejs/badge.svg?branch=master
