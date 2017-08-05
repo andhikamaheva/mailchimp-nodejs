@@ -26,7 +26,6 @@
   },
   "homepage": "https://github.com/andhikamaheva/mailchimp-nodejs#readme",
   "dependencies": {
-    "dotenv": "^4.0.0",
     "fs": "0.0.1-security",
     "http": "0.0.0",
     "request": "^2.81.0"
