@@ -47,8 +47,19 @@ npm install --save mailchimp-nodejs
 There are some dependencies support this package :
 
 ### Main Dependencies
+* [fs](https://nodejs.org/api/fs.html)
+* [http](https://www.npmjs.com/package/http)
+* [request](https://github.com/request/request)
 
 ### Development Dependencies
+* [assert](https://github.com/defunctzombie/commonjs-assert)
+* [chai](https://github.com/chaijs/chai)
+* [coveralls](https://github.com/nickmerwin/node-coveralls)
+* [istanbul](https://github.com/gotwarlost/istanbul)
+* [mocha](https://github.com/mochajs/mocha)
+* [mocha-lcov-reporter](https://github.com/StevenLooman/mocha-lcov-reporter)
+* [nock](https://github.com/node-nock/nock)
+* [vows](https://github.com/vowsjs/vows)
 
 
 <a name="quick_start"></a>
